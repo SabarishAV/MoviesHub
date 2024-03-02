@@ -57,9 +57,7 @@ const App = () => {
           <h2>No movies found</h2>
         </div>
       )}
-      <div className="footer">
-          <footer>Copyright@Ankit Chhetri 2022</footer>
-      </div>
+
     </div>
   );
 };
